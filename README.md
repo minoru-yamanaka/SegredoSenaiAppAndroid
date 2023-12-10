@@ -1,4 +1,4 @@
-# Segredo Senai App Android
+# Segredo App Android
 
 Este aplicativo Android foi desenvolvido para armazenar e recuperar dados simples usando SharedPreferences. Aqui está um resumo simples dos métodos utilizados no código:
 
