@@ -21,4 +21,6 @@ Este aplicativo Android foi desenvolvido para armazenar e recuperar dados simple
    - Se existir, recupera o valor e exibe no TextView (textResultado).
    - Se não existir, exibe uma mensagem indicando que o usuário não está definido.
 
-Esse aplicativo é projetado para armazenar um "segredo" (ou nome) fornecido pelo usuário e exibi-lo posteriormente. No geral, este código ilustra a utilização básica do SharedPreferences em um aplicativo Android.
+Esse aplicativo é projetado para armazenar um "segredo" fornecido pelo usuário e exibi-lo posteriormente. No geral, este código ilustra a utilização básica do SharedPreferences em um aplicativo Android.
+
+![image](ScreenShot_Home.jpg)
