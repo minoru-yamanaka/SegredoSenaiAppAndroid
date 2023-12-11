@@ -23,4 +23,12 @@ Este aplicativo Android foi desenvolvido para armazenar e recuperar dados simple
 
 Esse aplicativo é projetado para armazenar um "segredo" fornecido pelo usuário e exibi-lo posteriormente. No geral, este código ilustra a utilização básica do SharedPreferences em um aplicativo Android.
 
+---
+
 ![image](ScreenShot_Home.jpg)
+
+---
+
+Dedicação ao [Professor Douglas Reis](linkedin.com/in/douglas-dos-reis-3473a868)! 🚀
+
+É com imensa gratidão que dedico este aplicativo a você! 📱💡 Desenvolvê-lo foi uma jornada empolgante de aprendizado sobre os fundamentos do Android, e sua orientação foi crucial para eu compreender a aplicação prática dos métodos usados.
