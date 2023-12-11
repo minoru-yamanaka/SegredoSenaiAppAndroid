@@ -31,4 +31,10 @@ Esse aplicativo é projetado para armazenar um "segredo" fornecido pelo usuário
 
 Dedicação ao [Professor Douglas Reis](linkedin.com/in/douglas-dos-reis-3473a868)! 🚀
 
-É com imensa gratidão que dedico este aplicativo a você! 📱💡 Desenvolvê-lo foi uma jornada empolgante de aprendizado sobre os fundamentos do Android, e sua orientação foi crucial para eu compreender a aplicação prática dos métodos usados.
+Ei, Professor Douglas,
+
+Este app é todo seu, uma mistura de códigos, magia e um toque de brilho Android! 📱💫 Desenvolvê-lo foi como embarcar em uma aventura maluca pelos fundamentos do Android, e a sua orientação foi tipo um mapa do tesouro para entender os truques mágicos dos métodos que usamos.
+
+Valeu por ser o capitão do nosso navio de código! Cada bug corrigido foi uma batalha vencida, e cada linha de código é uma pegada divertida na trilha do desenvolvimento. Este app é praticamente uma obra de arte, com você como o mestre das artes encantadas do Android!
+
+Obrigado por tornar nossa jornada tão incrível!
