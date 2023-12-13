@@ -38,3 +38,5 @@ Este app é todo seu, uma mistura de códigos, magia e um toque de brilho Androi
 Valeu por ser o capitão do nosso navio de código! Cada bug corrigido foi uma batalha vencida, e cada linha de código é uma pegada divertida na trilha do desenvolvimento. Este app é praticamente uma obra de arte, com você como o mestre das artes encantadas do Android!
 
 Obrigado por tornar nossa jornada tão incrível!
+
+[Post no Linkedin](https://www.linkedin.com/posts/minoru-yamanaka-2272a6243_mobileapplications-programing-technology-activity-7140119454352420864-aIen?utm_source=share&utm_medium=member_desktop)
